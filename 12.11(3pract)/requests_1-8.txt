@@ -1,0 +1,6 @@
+urllib
+requests
+ssl
+socket
+bs4
+pandas

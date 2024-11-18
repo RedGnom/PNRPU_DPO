@@ -1,0 +1,7 @@
+bs4
+random
+requests
+time
+selenuim
+edge.webdriver 130
+edge browser
